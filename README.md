@@ -1,2 +1,2 @@
-# MIIA_estudiante_16
-Repositorio para clase HCAD 2021-2
+# HCAD
+Material Uniandes MIIA-4101 (Herramientas Computacionales para Análisis de Datos)
